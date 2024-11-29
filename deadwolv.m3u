@@ -1,4 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1,Deadpool and Wolverine
-http://86.21.112.46:8097/Items/07695189c9cf39b13f802d523112d61d/Download?api_key=eab4a09892f44cc181de63e31674d368
